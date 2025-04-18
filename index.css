@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(180deg, #000 0%, #0a0f1a 100%);
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
